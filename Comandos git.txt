@@ -1,0 +1,8 @@
+
+git init adiciona uma informação foi acrescentada no final do Git Bash ((master)).
+git status status das informaçoes no git
+git add serve adicionar arquivos
+
+comando pra identificar seu dados git
+git config --local user.name "Seu nome aqui"
+git config --local user.email "seu@email.aqui"
