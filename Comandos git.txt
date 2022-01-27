@@ -6,3 +6,7 @@ git add serve adicionar arquivos
 comando pra identificar seu dados git
 git config --local user.name "Seu nome aqui"
 git config --local user.email "seu@email.aqui"
+
+COMANDO COMMIT
+git ADD .
+git commit -m "SEGUNDO commit pelo Alura"
